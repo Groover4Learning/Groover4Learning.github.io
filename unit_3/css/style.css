@@ -1,0 +1,61 @@
+body {
+  padding-top: 30px;
+  text-align: center;
+  background: url("../images/BabyFalls Boof.jpeg");
+  background-size:cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+
+hr {
+	width: 400px;
+}
+
+#maincontent {
+	text-align:left;
+	display:block;
+	margin:auto;
+	width:50%;
+
+}
+
+#slogan {
+	font-style:italic;
+}
+
+#mainCTAbuttons {
+	position: absolute;
+	margin-left:auto;
+	margin-right:auto;
+	left:0;
+	right:0;
+	width: 50%;
+	bottom:15%;
+
+}
+
+#CTA1 {
+	color: black; 
+	border: 1px solid white;
+	background: rgba(67,135,252,.5)
+}
+
+#CTA2 {
+	color: black;
+	border: 1px solid white;
+	background: rgba(67,135,252,.5)
+
+}
+
+#footer {
+	position:absolute;
+	right:0px;
+	bottom:0px;
+	left:0px;
+	text-align: center;
+}
+
+a {
+	color: rgb(67,135,252);
+}
+
