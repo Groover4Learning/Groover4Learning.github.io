@@ -18,10 +18,10 @@ a {
 	color: rgb(67,135,252);
 }
 
-#header {
+header {
 	font-family:Droid Serif;
-	background-color: black;
-	/*border: 1px solid black;*/
+	background-color: #FFED74;
+	border: 1px solid yellow;
 	display:flex;
     flex-direction:row;
 	justify-content: space-around;
@@ -37,9 +37,9 @@ a {
 }
 
 
-#MenuWrapper{
-	background-color: black;
-	/*border: 1px solid black;*/
+nav{
+	background-color: #E8C66A;
+	border: 1px solid #E8C66A;
 	width:75%;
 	display:flex;
     flex-direction:row;
@@ -58,7 +58,7 @@ a {
 
 
 
-#mainpage {
+main {
 	/*border: 1px solid blue;*/
 	text-align:center;
 	margin-left:auto;
@@ -160,9 +160,9 @@ a {
 }
 
 
-#hs-message-section-1 {
-	border: 1px solid black;
-	background-color: black;
+article {
+	border: 1px solid #E89C6C;
+	background-color: #E89C6C;
 	text-align:center;
 	margin-left:auto;
 	margin-right:auto;
@@ -176,7 +176,9 @@ a {
 	float:left;
 	width:25%;
 	margin: 2%;
-	color: white; 
+	color: white;
+	text-align:left;
+	padding:.5em 2em 1em 2em;
 	/*border: 1px solid white;*/
 	background: rgba(67,135,252,.7);
 }
@@ -186,17 +188,19 @@ a {
 	width:75%;
 	margin:2%;
 	color: white; 
+	text-align:left;
+	padding:.5em 1em 1em 2em;
 	/*border: 1px solid white;*/
 	background: rgba(67,135,252,.7);
 }
 
 
-#footer {
+footer {
 
 	font-family:Droid Serif;
-	background-color:blue;
+	background-color:#FF957E;
 	position: relative;
-	border: 1px solid white;
+	border: 1px solid #FF957E;
 	text-align:center;
 	display:block;
 	
