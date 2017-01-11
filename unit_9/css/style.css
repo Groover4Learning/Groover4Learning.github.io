@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Serif|Oswald');
 
 body {
-  /*padding-top: 60px;*/
   font-size:40px;
   text-align: center;
   font-family:Droid Serif;
@@ -34,7 +33,6 @@ header {
 	font-size:.5em;
 	font-family:Droid Serif;
 	background: black;
-	/*border: 1px solid rgba(67,135,252,.3);*/
 }
 
 
@@ -45,7 +43,6 @@ header {
 	margin: 1%;
 	padding:1%;
 	color: white;
-	/*border: 1px solid white;*/
 }
 
 
@@ -54,12 +51,11 @@ header {
 	text-align:center;
 	margin:5%
 	display:block;
-	background: url("../images/wwn logo small.png");
+	background: url("../images/wwnlogosmall.png");
 	background-size: cover;
     padding-top: 5%;
     padding-bottom: 11%;
 	color: white;
-	/*border: 1px solid blue;*/
 }
 
 
@@ -68,7 +64,6 @@ nav{
 	width:66%;
 	margin:.5%;
 	padding:.5%;
-	/*border: 1px solid white;*/
 }
 
 
@@ -76,8 +71,6 @@ nav{
 	margin: .5%;
 	padding:2.5%;
 	clear:both;
-	/*border: 1px solid white;*/
-
 }
 
 
@@ -89,8 +82,6 @@ nav{
 	margin:.8%;
 	color: white; 
 	text-align: center;
-	/*border: 1px solid white;*/
-	/*background: rgba(67,135,252,.5);*/
 }
 
 .MenuButton:hover {
@@ -99,13 +90,12 @@ nav{
 
 
 main {
-	/*border: 1px solid blue;*/
 	font-size:1em;
 	text-align:center;
 	margin-left:auto;
 	margin-right:auto;
 	display:block;
-	background: url("../images/BabyFalls_Boof_2.jpeg");
+	background: url("../images/BabyFallsBoof2.jpeg");
     background-size: cover;
     padding-top: 5%;
     padding-bottom: 8%;
@@ -114,7 +104,6 @@ main {
 
 
 #maintitle {
-	/*border: 1px solid white;*/
 	font-size:.5em;
 	text-align:center;
 	Font-family:Oswald;
@@ -132,8 +121,6 @@ main {
 #maincontent {
 	font-family:Droid Serif;
 	font-size:.7em;
-	/*background-color: rgba(255,255,255,.5);*/
-	/*border: 1px solid white;*/
 	color:black;
 	text-align:left;
 	margin-top:30%;
@@ -155,7 +142,6 @@ main {
 
 #mainCTAbuttons {
     Font-family:Oswald;
-    /*border:1px solid white;*/
     font-size:.4em;
     position: relative;
     margin-left:auto;
@@ -174,7 +160,6 @@ main {
 	width:25%;
 	margin: 2%;
 	color: white; 
-	/*border: 1px solid white;*/
 	background: rgba(67,135,252,.7);
 }
 
@@ -183,7 +168,6 @@ main {
 	width:25%;
 	margin:2%;
 	color: white; 
-	/*border: 1px solid white;*/
 	background: rgba(67,135,252,.7);
 }
 
@@ -208,10 +192,7 @@ main {
 section {
 	font-size:.5em;
 	background-color:#2e3c54;
-	/*text-align:center;*/
 	display:block;
-	/*background-color: rgba(67,135,252,.7);*/
-	/*border: 1px solid rgba(67,135,252,.7);*/
 }
 
 
@@ -224,9 +205,6 @@ section {
 	padding: .5% 2% 2% 2%;
 	background-color: #465c7f;
 	display:block;
-	/* border: 1px solid rgba(67,135,252,.7); */
-	/*border: 1px solid white;*/
-	/*background: rgba(67,135,252,.7);*/
 }
 
 
@@ -239,9 +217,6 @@ section {
 	padding: .5% 2% 2% 2%;
 	background-color: #465c7f;
 	display:block;
-	/* border: 1px solid rgba(67,135,252,.7); */
-	/*border: 1px solid white;*/
-	/*background: rgba(67,135,252,.7);*/
 }
 
 #article_3 {
@@ -253,9 +228,6 @@ section {
 	padding: .5% 2% 2% 2%;
 	background-color: #465c7f;
 	display:block;
-	/* border: 1px solid rgba(67,135,252,.7); */
-	/*border: 1px solid white;*/
-	/*background: rgba(67,135,252,.7);*/
 }
 
 #article_4 {
@@ -267,9 +239,6 @@ section {
 	padding: .5% 2% 2% 2%;
 	background-color: #465c7f;
 	display:block;
-	/* border: 1px solid rgba(67,135,252,.7); */
-	/*border: 1px solid white;*/
-	/*background: rgba(67,135,252,.7);*/
 }
 
 
